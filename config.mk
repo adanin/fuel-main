@@ -39,7 +39,7 @@ NO_UI_OPTIMIZE:=0
 CACHE_RHEL:=0
 
 # Repos and versions
-FUELLIB_COMMIT?=master
+FUELLIB_COMMIT?=havana
 NAILGUN_COMMIT?=master
 ASTUTE_COMMIT?=master
 OSTF_COMMIT?=master
